@@ -1,0 +1,10 @@
+{
+  "domain": "polygon_zone",
+  "name": "Polygon Zone",
+  "documentation": "https://github.com/miumida/polygon_zone",
+  "requirements": [],
+  "codeowners": ["@miumida"],
+  "iot_class": "cloud_polling",
+  "version": "1.0.0",
+  "config_flow": true
+}
