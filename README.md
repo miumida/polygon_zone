@@ -51,6 +51,11 @@ HA의 device_tracker 정보를 기준으로 다각형(Polygon) 영역(Zone)의 �
 위도1, 경도1, 위도2, 경도2, 위도3, 경도3, ... 형태로 입력하면 됩니다.<br>
 구글지도(<https://www.google.co.kr/maps/?hl=ko>)로 가서, 영역을 구성하기 원하는 좌표들을 복사합니다.<br>
 
+<br>
+
+## 참고사이트
+[1] community.home-assistant.io | Zones that are not circles (<https://community.home-assistant.io/t/zones-that-are-not-circles/175914/24>)<br>
+
 [version-shield]: https://img.shields.io/badge/version-v1.0.0-orange.svg
 [hakc-shield]: https://img.shields.io/badge/HAKC-Enjoy-blue.svg
 [hacs-shield]: https://img.shields.io/badge/HACS-Custom-red.svg
