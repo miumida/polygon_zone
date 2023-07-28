@@ -151,5 +151,5 @@ class PolygonZoneSensor(Entity):
             "manufacturer": 'miumida',
             "sw_version": VERSION,
             "model": f"Polygon Zone({self._zname})",
-            "DeviceEntryType": "service",
+            "entry_type": "service",
         }
